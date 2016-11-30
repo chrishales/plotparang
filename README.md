@@ -14,7 +14,7 @@ In case you are wondering, I wrote this script to generate plots for a document 
 Sample plots for a range of representative latitudes
 =======
 
-Panels in the left column display parallactic angle vs hour angle. Those in the right column display parallactic angle derivative. Rows correspond to observatory latitude, ranging from -80<sup>o</sup> in the bottom row to +80<sup>o</sup> in the top row in increments of +20<sup>o</sup>.
+Panels in the left column display parallactic angle vs hour angle. Those in the right column display parallactic angle derivative. Rows correspond to observatory latitude, ranging from +80<sup>o</sup> in the top row to -80<sup>o</sup> in the bottom row in decrements of 20<sup>o</sup>.
 
 <img src="sample_plots/parang_SAMPLE_LAT+80d.png" width="400" title="LAT+80d"> <img src="sample_plots/parang_deriv_SAMPLE_LAT+20d.png" width="400" title="LAT+80d">
 <img src="sample_plots/parang_SAMPLE_LAT+60d.png" width="400" title="LAT+60d"> <img src="sample_plots/parang_deriv_SAMPLE_LAT+20d.png" width="400" title="LAT+60d">
