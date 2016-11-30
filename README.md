@@ -9,7 +9,7 @@ For source declinations less than that the observatory latitude, parallactic ang
 
 This script is released under a BSD 3-Clause License (open source, commercially useable); refer to LICENSE for details.
 
-In case you are wondering, I wrote this script to generate plots for <insert link to radio polarimetry document when available>.
+In case you are wondering, I wrote this script to generate plots for a document regarding radio polarimetry. I will include a link to this document when available.
 
 Sample plots for a range of representative latitudes
 =======
