@@ -5,7 +5,7 @@ Parallactic angle is the angle contructed at a celestial coordinate between a li
 
 This simple python script will plot parallactic angle vs hour angle and its derivative for astronomical sources at different declinations, for a user-defined observatory latitude. Curves will be marked with user-defined upper and lower telescope elevation limits. See the code header for user-defined parameters.
 
-For source declinations less than that the observatory latitude, parallactic angle is negative for a source as it rises in the East at negative hour angle. Parallactic angle then becomes positive as the source set in the West at positive hour angle.
+For source declinations less than that the observatory latitude, parallactic angle is negative for the source as it rises in the East at negative hour angle. Parallactic angle then becomes positive as the source set in the West at positive hour angle.
 
 This script is released under a BSD 3-Clause License (open source, commercially useable); refer to LICENSE for details.
 
