@@ -1,7 +1,7 @@
 plotparang
 =======
 
-Parallactic angle is that contructed at a celestial coordinate between a line of constant right ascension and one pointing toward zenith, as viewed from a geographic coordinate.
+Parallactic angle is the angle contructed at a celestial coordinate between a line of constant right ascension and one pointing toward zenith, as viewed from a geographic coordinate.
 
 This simple python script will plot parallactic angle vs hour angle and its derivative for astronomical sources at different declinations, for a user-defined observatory latitude. Curves will be marked with user-defined upper and lower telescope elevation limits. See the code header for user-defined parameters.
 
